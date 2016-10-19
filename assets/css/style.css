@@ -1,0 +1,67 @@
+body{
+	background-image:url("http://cdn.pcwallart.com/images/colorful-crystal-cave-wallpaper-2.jpg");
+}
+header{
+	width:200px;
+	height: 70px;
+	background-image:url("https://s-media-cache-ak0.pinimg.com/236x/0a/2b/6d/0a2b6d57d542ee8ccbe8640a26d7bf12.jpg");
+	margin-bottom: 10px;
+}
+#name{
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+}
+.paragraph{
+	width: 350px;
+	height:370px;
+	background-image:url("https://s-media-cache-ak0.pinimg.com/236x/0a/2b/6d/0a2b6d57d542ee8ccbe8640a26d7bf12.jpg");
+	margin-bottom: 10px;
+
+}
+p{
+	color: white;
+	padding: 5px;
+}
+.start{
+	height:105px;
+    width:300px;
+    display: inline-block;
+}
+.total{
+	width:150px;
+	height: 90px;
+	background-color: #49E6D6;
+	margin-right: 10px;
+	font-size: 30px;
+	color:black;
+
+}
+.result{
+	width:100px;
+	height: 100px;
+	background-color: #49E6D6;
+	margin-left: 160px;
+	margin-top:-90px;
+}
+.click{
+	width:80px;
+	height:80px;
+}
+.score{
+	width: 180px;
+	height:30px;
+	background-image:url("https://s-media-cache-ak0.pinimg.com/236x/0a/2b/6d/0a2b6d57d542ee8ccbe8640a26d7bf12.jpg");
+	margin-bottom: 10px;
+}
+h5{
+	color: white;
+	padding-top: 7px;
+}
+.addition{
+	width:180px;
+	height:90px;
+	background-image:url("https://s-media-cache-ak0.pinimg.com/236x/0a/2b/6d/0a2b6d57d542ee8ccbe8640a26d7bf12.jpg");
+	font-size: 30px;
+	color: white;
+}
